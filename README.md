@@ -6,12 +6,9 @@
 This project aims to predict Rotten Tomatoes movie ratings based on critic reviews using machine learning techniques. The dataset used for this project is sourced from Kaggle, which includes information about movies along with critic reviews.
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: [Rotten Tomatoes movies and critic reviews
-(https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)]
-The dataset contains the following features:
-- **Feature 1**: Description
-- **Feature 2**: Description
-- ...
+The dataset used for this project can be found on Kaggle: [Rotten Tomatoes movies and critic reviews]
+(https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)
+
 
 ## Methodology
 1. **Data Preprocessing**: The dataset was preprocessed to handle missing values, encode categorical variables, and normalize numerical features.
