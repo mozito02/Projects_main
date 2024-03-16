@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file based on your project:
 
----
 
 # Rotten Tomatoes Movies Rating Prediction
 
@@ -8,8 +6,8 @@ Certainly! Below is a template for a README file based on your project:
 This project aims to predict Rotten Tomatoes movie ratings based on critic reviews using machine learning techniques. The dataset used for this project is sourced from Kaggle, which includes information about movies along with critic reviews.
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: [Rotten Tomatoes movies and critic reviews](https://www.kaggle.com/c/siim-isic-melanoma-classification/data)
-
+The dataset used for this project can be found on Kaggle: [Rotten Tomatoes movies and critic reviews
+(https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset)]
 The dataset contains the following features:
 - **Feature 1**: Description
 - **Feature 2**: Description
