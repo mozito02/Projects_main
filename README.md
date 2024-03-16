@@ -35,6 +35,4 @@ To reproduce the results of this project:
 ## Conclusion
 This project demonstrates the use of machine learning techniques to predict Rotten Tomatoes movie ratings based on critic reviews. The high accuracy score achieved indicates the effectiveness of the Random Forest classifier in this task. Further improvements could be made by exploring different machine learning algorithms or incorporating additional features.
 
----
 
-Feel free to customize this README template according to your specific project details and structure. You can add sections such as "Future Work", "Acknowledgments", or "License" as needed.
